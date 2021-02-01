@@ -1,0 +1,91 @@
+body {
+  height: 100vh;
+  background-image: url("../images/jackson.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-position: center center;
+  
+}
+
+#body1{
+  height: 100vh;
+  background-image: url("../images/mj\ kid.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-position: center center;
+  
+}
+
+#logo{
+  width: 55px;
+}
+
+#img0{
+  height: 30%;
+  margin: auto;
+  opacity: 0;
+}
+
+#img1{
+  height: 30%;
+  margin: auto;
+  
+}
+
+/* #img1:hover > #probe{
+display: inline-block;
+} */
+
+#img2{
+  height: 30%;
+  margin: auto;
+  
+}
+
+#img3{
+  height: 30%;
+  margin: auto;
+  
+}
+
+#img4{
+  height: 30%;
+  margin: auto;
+  
+}
+
+#img5{
+  height: 30%;
+  margin: auto;
+  
+}
+
+/* #caro-container{
+   height: 90vh; 
+  
+} */
+
+
+.probe{
+  color: aliceblue;
+  opacity: 0.7;
+  position: absolute;
+  
+}
+
+
+.p1{
+    color: aliceblue;
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+
+  #p2{
+    color: aliceblue;
+  }
